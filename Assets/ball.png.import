@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/icon.png-106f93b12d8c844114ff8c65e0a992f2.stex"
+path="res://.import/ball.png-1953c7d658a9d52aab6b71a2f962f6ac.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Project-Template-Godot-master/Project-Template-Godot-master/icon.png"
-dest_files=[ "res://.import/icon.png-106f93b12d8c844114ff8c65e0a992f2.stex" ]
+source_file="res://Assets/ball.png"
+dest_files=[ "res://.import/ball.png-1953c7d658a9d52aab6b71a2f962f6ac.stex" ]
 
 [params]
 

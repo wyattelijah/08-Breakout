@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/icon.png-106f93b12d8c844114ff8c65e0a992f2.stex"
+path="res://.import/tile_green.png-606ae0a223793f25f98b2fcc8e4d95f0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Project-Template-Godot-master/Project-Template-Godot-master/icon.png"
-dest_files=[ "res://.import/icon.png-106f93b12d8c844114ff8c65e0a992f2.stex" ]
+source_file="res://Assets/tile_green.png"
+dest_files=[ "res://.import/tile_green.png-606ae0a223793f25f98b2fcc8e4d95f0.stex" ]
 
 [params]
 
